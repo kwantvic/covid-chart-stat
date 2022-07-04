@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covid-chart-stat/static/css/main.046d31f0.css",
+    "main.js": "/covid-chart-stat/static/js/main.99047432.js",
+    "static/js/787.8c3f5416.chunk.js": "/covid-chart-stat/static/js/787.8c3f5416.chunk.js",
+    "index.html": "/covid-chart-stat/index.html",
+    "main.046d31f0.css.map": "/covid-chart-stat/static/css/main.046d31f0.css.map",
+    "main.99047432.js.map": "/covid-chart-stat/static/js/main.99047432.js.map",
+    "787.8c3f5416.chunk.js.map": "/covid-chart-stat/static/js/787.8c3f5416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046d31f0.css",
+    "static/js/main.99047432.js"
+  ]
+}
